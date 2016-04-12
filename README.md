@@ -48,7 +48,7 @@ I started learning the piano at age 5, and music has been a prominent part of my
 
 ## Experience
 
-**Freelance Musician** (September 2009 to present)
-*Private teacher, perform regularly in Essex, Suffolk and Norfolk*
-**Maths Tutor** (September 2009 to June 2015)
-*Provided private tuition for GCSE and A-Level Students*
+**Freelance Musician** (September 2009 to present)   
+*Private teacher, perform regularly in Essex, Suffolk and Norfolk*   
+**Maths Tutor** (September 2009 to June 2015)   
+*Provided private tuition for GCSE and A-Level Students*   
