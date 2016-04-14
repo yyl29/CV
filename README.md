@@ -12,7 +12,7 @@ Makers introduced to me Ruby and Javascript as programming languages, but more i
 
 Project                                       | Description
 ----------------------------------------------|---------------------------
-[FairMuse](https://github.com/yyl29/fairMuse) | A music streaming service with Angular fronted and Rails API. Built in just under two weeks by a team of 5 as final project at Makers Academy.
+[FairMuse](https://github.com/yyl29/fairMuse) | A music streaming service with Angular frontend and Rails API. Built in just under two weeks by a team of 5 as the final project at Makers Academy.
 [Chitter](https://github.com/yyl29/chitter-challenge) | A simple Twitter clone. Built in Ruby with Sinatra as a solo weekend challenge in Week 4.
 [Airport](https://github.com/yyl29/airport_challenge) | A command line airport control system built with Ruby and Rspec. My first ever solo TDD project!
 
@@ -20,7 +20,7 @@ Project                                       | Description
 
 I started learning the piano at age 5, and music has been a prominent part of my life ever since. It has also equipped me with skills that are essential in other areas, which I then further developed as a freelance musician.
 
-- **Flexible and adaptable in teams**: Worked with numerous orchestras/ensembles of various size as a perfoming musician. Able to learn music fast and adapt well to different groups, even with as little as one rehearsal.
+- **Flexible and adaptable in teams**: Worked with numerous orchestras/ensembles of various sizes as a perfoming musician. Able to learn music fast and adapt well to different groups, even with as little as one rehearsal.
 - **Time management and organisational skills**: Managing my busy gigging/teaching schedule while keeping a practice routine can be like solving a sudoku puzzle.
 - **Problem solving and communication skills**: When teaching, I have to find ways to help a range of students at different levels to tackle problems and plan lessons to suit individual needs. Patience and understanding are also required when explaining abstract ideas (very often to parents as well!).
 
@@ -48,7 +48,7 @@ I started learning the piano at age 5, and music has been a prominent part of my
 
 ## Experience
 
-**Freelance Musician** (September 2009 to present)   
-*Private teacher, perform regularly in Essex, Suffolk and Norfolk*   
-**Maths Tutor** (September 2009 to June 2015)   
-*Provided private tuition for GCSE and A-Level Students*   
+**Freelance Musician** (September 2009 to present)
+*Private teacher, perform regularly in Essex, Suffolk and Norfolk*
+**Maths Tutor** (September 2009 to June 2015)
+*Provided private tuition for GCSE and A-Level Students*
