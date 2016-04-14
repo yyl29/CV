@@ -1,6 +1,6 @@
 ## Yan-Yi Li
 
-Makers Academy graduate with a curiousity and passion for technology. Proactive learner and problem-solver with proven track record of quickly learning and applying new technologies. Looking for a challenging role as a junior developer in an environment where I can hone my programming skills, while contributing to a team that also values software craftsmanship.
+Makers Academy graduate with a curiosity and passion for technology. Proactive learner and problem-solver with proven track record of quickly learning and applying new technologies. Looking for a challenging role as a junior developer in an environment where I can hone my programming skills, while contributing to a team that also values software craftsmanship.
 
 ## Skills
 
@@ -20,7 +20,7 @@ Project                                       | Description
 
 I started learning the piano at age 5, and music has been a prominent part of my life ever since. It has also equipped me with skills that are essential in other areas, which I then further developed as a freelance musician.
 
-- **Flexible and adaptable in teams**: Worked with numerous orchestras/ensembles of various sizes as a perfoming musician. Able to learn music fast and adapt well to different groups, even with as little as one rehearsal.
+- **Flexible and adaptable in teams**: Worked with numerous orchestras/ensembles of various sizes as a performing musician. Able to learn music fast and adapt well to different groups, even with as little as one rehearsal.
 - **Time management and organisational skills**: Managing my busy gigging/teaching schedule while keeping a practice routine can be like solving a sudoku puzzle.
 - **Problem solving and communication skills**: When teaching, I have to find ways to help a range of students at different levels to tackle problems and plan lessons to suit individual needs. Patience and understanding are also required when explaining abstract ideas (very often to parents as well!).
 
@@ -48,7 +48,7 @@ I started learning the piano at age 5, and music has been a prominent part of my
 
 ## Experience
 
-**Freelance Musician** (September 2009 to present)
-*Private teacher, perform regularly in Essex, Suffolk and Norfolk*
-**Maths Tutor** (September 2009 to June 2015)
+**Freelance Musician** (September 2009 to present)<br>
+*Private teacher, perform regularly in Essex, Suffolk and Norfolk*<br>
+**Maths Tutor** (September 2009 to June 2015)<br>
 *Provided private tuition for GCSE and A-Level Students*
