@@ -16,6 +16,7 @@ Project                                       | Description
 [Chitter](https://github.com/yyl29/chitter-challenge) | A simple Twitter clone. Built in Ruby with Sinatra as a solo weekend challenge in Week 4.
 [Airport](https://github.com/yyl29/airport_challenge) | A command line airport control system built with Ruby and Rspec. My first ever solo TDD project!
 
+<p style="page-break-after:always;"></p>
 #### Music
 
 I started learning the piano at age 5, and music has been a prominent part of my life ever since. It has also equipped me with skills that are essential in other areas, which I then further developed as a freelance musician.
